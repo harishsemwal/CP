@@ -1,0 +1,73 @@
+There are N children standing in a line. Each child is assigned a rating value given in the integer array ratings.
+You are giving candies to these children subjected to the following requirements:
+
+Each child must have atleast one candy.
+Children with a higher rating than its neighbors get more candies than their neighbors.
+Return the minimum number of candies you need to have to distribute.
+
+Example 1:
+
+Input:
+N = 3
+ratings = [1, 0, 2]
+Output: 
+5
+Explanation: 
+You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
+Example 2:
+
+Input:
+N = 3
+ratings = [1, 2, 2]
+Output: 
+4
+Explanation: 
+You can allocate to the first, second and third child with 1, 2, 1 candies respectively.
+The third child gets 1 candy because it statisfies the above two conditions.
+
+
+Solution:---------------------------------------------------------------------------->
+et's break down the code and explain each part:
+
+cpp
+Copy code
+int ans = N, i = 0;
+Here, ans is initialized to N, and i is initialized to 0. ans is likely going to store the final result, and i is used as an index variable to iterate through the ratings array.
+
+cpp
+Copy code
+while (i + 1 < N)
+{
+    int l = 0, h = 0;
+The outer loop iterates through the ratings array until i + 1 is less than N. l and h are initialized to 0 and will be used to count the lengths of consecutive increasing and decreasing sequences of ratings.
+
+cpp
+Copy code
+while (i + 1 < N && ratings[i + 1] == ratings[i])
+    i++;
+This loop skips over consecutive equal ratings, incrementing i until a different rating is encountered.
+
+cpp
+Copy code
+while (i + 1 < N && ratings[i + 1] > ratings[i])
+{
+    i++;
+    l++;
+}
+This loop counts the length of the increasing sequence of ratings and increments i accordingly.
+
+cpp
+Copy code
+while (i + 1 < N && ratings[i + 1] < ratings[i])
+{
+    i++;
+    h++;
+}
+Similarly, this loop counts the length of the decreasing sequence of ratings and increments i accordingly.
+
+cpp
+Copy code
+ans += l * (l - 1) / 2 + h * (h - 1) / 2 + max(l, h);
+Here, the lengths of increasing and decreasing sequences are used to calculate the number of candies that need to be assigned. The expression l * (l - 1) / 2 calculates the number of candies for the increasing sequence using the formula for the sum of the first l-1 natural numbers. The same is done for the decreasing sequence. max(l, h) considers the peak of the increasing or decreasing sequence, and this value is added to ans. This accounts for cases where there is a peak that needs extra candies to ensure a proper distribution.
+
+The overall idea is to iterate through the ratings array, identify increasing and decreasing sequences, and calculate the candies required for each sequence, updating the ans accordingly.
