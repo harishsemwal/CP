@@ -1,8 +1,3 @@
-#include <algorithm>
-#include <string>
-
-using namespace std;
-
 class Solution {
 public:
     string removeKdigits(string num, int k) {
@@ -19,17 +14,22 @@ public:
                 i++;
             }
         }
-  
-        while (k > 0 && !num.empty()) {
+        while(k > 0 && !num.empty()){
             num.pop_back();
             k--;
         }
-      
-        size_t leadingZeros = 0;
-        while (leadingZeros < num.size() && num[leadingZeros] == '0') {
-            leadingZeros++;
+        
+        int st = 0;
+        while(st < num.size() && num[st] == '0'){
+            st += 1;
         }
-        num.erase(0, leadingZeros);
-        return num.empty() ? "0" : num;
+        num.erase(0, st);
+        
+        if(num.empty()){
+            return "0";
+        }
+        else{
+            return num;
+        }
     }
 };
