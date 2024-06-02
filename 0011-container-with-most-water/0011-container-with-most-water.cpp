@@ -1,18 +1,23 @@
 class Solution {
 public:
+    int solve(int x, int y){
+        return (x * y);
+    }
     int maxArea(vector<int>& height) {
-        int l = 0;
-        int r = height.size()-1;
-        int maxi = 0;
+        int n = height.size();
+        int left = 0;
+        int right = n - 1;
 
-        while(l < r){
-            maxi = max(maxi, min(height[l], height[r])*(r-l));
-            if(height[l] < height[r]){
-                l++;
-            }else{
-                r--;
+        int result = 0;
+        while(left < right){
+            result = max(result, solve(min(height[left], height[right]), (right - left)));
+            if(height[left] < height[right]){
+                left++;
+            }
+            else{
+                right--;
             }
         }
-        return maxi;
+        return result;
     }
 };
