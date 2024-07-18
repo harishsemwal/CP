@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,10 +61,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
