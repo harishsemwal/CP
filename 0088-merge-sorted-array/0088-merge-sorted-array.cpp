@@ -22,10 +22,10 @@ public:
             k--;
             j--;
         }
-        while(i >= 0){
-            num1[k] = num1[i];
-            k--;
-            i--;
-        }
+        // while(i >= 0){
+        //     num1[k] = num1[i];
+        //     k--;
+        //     i--;
+        // }
     }
 };
