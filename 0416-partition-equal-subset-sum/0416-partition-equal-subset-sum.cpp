@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // imp Question DP 
     int sum = 0;
     bool subsetSum(vector<int>&nums, int target){
         int n = nums.size();
