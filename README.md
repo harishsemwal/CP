@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3468-find-the-encrypted-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0067-add-binary) |
+| [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
