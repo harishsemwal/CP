@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0392-is-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0322-coin-change) |
