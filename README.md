@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Bit Manipulation
