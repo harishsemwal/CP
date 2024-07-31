@@ -1,9 +1,12 @@
 class Solution {
+
+
+
 public:
     string addBinary(string a, string b) {
         int i = a.size() - 1;
         int j = b.size() - 1;
-        string res = "";
+        string res = ""; 
         int carry = 0;
         while(i >= 0 || j >= 0){
             int sum = carry;
