@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
