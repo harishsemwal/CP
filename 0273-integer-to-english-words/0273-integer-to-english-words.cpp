@@ -1,61 +1,39 @@
 class Solution {
 public:
-   // This is Complex --------------- :-( = :)
-    vector<pair<int, string>> mp = {
-    {1000000000, "Billion"},
-    {1000000, "Million"},
-    {1000, "Thousand"},
-    {100, "Hundred"},
-    {90, "Ninety"},
-    {80, "Eighty"},
-    {70, "Seventy"},
-    {60, "Sixty"},
-    {50, "Fifty"},
-    {40, "Forty"},
-    {30, "Thirty"},
-    {20, "Twenty"},
-    {19, "Nineteen"},
-    {18, "Eighteen"},
-    {17, "Seventeen"},
-    {16, "Sixteen"},
-    {15, "Fifteen"},
-    {14, "Fourteen"},
-    {13, "Thirteen"},
-    {12, "Twelve"},
-    {11, "Eleven"},
-    {10, "Ten"},
-    {9, "Nine"},
-    {8, "Eight"},
-    {7, "Seven"},
-    {6, "Six"},
-    {5, "Five"},
-    {4, "Four"},
-    {3, "Three"},
-    {2, "Two"},
-    {1, "One"}
-};
-
+    vector<string> belowTen = {"","One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
+    vector<string> belowTwenty = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
+    vector<string> belowHundred = {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
     string numberToWords(int num) {
-        if(num==0){
-            return "Zero";
-        }
+        if(num == 0)
+           return "Zero";
+        return find(num);
+    }
 
-        for(auto it:mp){
-            if(num >= it.first){
-                string a="";
-                if(num >= 100){
-                    a = numberToWords(num / it.first) + " ";
-                }
-
-                string b = it.second;
-
-                string c = "";
-                if(num % it.first != 0){
-                    c = " " + numberToWords(num % it.first);
-                }
-                return a + b + c;
-            }
-        }
-        return "";
+    string find(int num)
+    {
+        string result = "";
+        if(num<10)
+            result = belowTen[num];
+        else
+            if(num<20)
+                result = belowTwenty[num-10];
+        else
+            if(num<100)
+                result = belowHundred[num/10] + " " + find(num%10);
+        else
+            if(num<1000)
+                result = find(num/100) + " Hundred " + find(num%100);
+        else
+            if(num<1000000)
+                result = find(num/1000) + " Thousand " + find(num%1000);
+        else
+            if(num<1000000000)
+                result = find(num/1000000) + " Million " + find(num%1000000);
+        else
+            result = find(num/1000000000) + " Billion " + find(num%1000000000);
+        int size = result.length();
+        if(size>0 && result[size-1]==' ')
+            result = result.substr(0, size-1);
+        return result;
     }
 };
