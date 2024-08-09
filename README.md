@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
