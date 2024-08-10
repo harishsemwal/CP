@@ -17,7 +17,7 @@ public:
         }
 
         Node* current = head;
-        std::stack<Node*> st;
+        stack<Node*> st;
 
         while (current != nullptr) {
             if (current->child != nullptr) {
