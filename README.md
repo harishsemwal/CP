@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -319,10 +320,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
 |  |
 | ------- |
 | [1827-invalid-tweets](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1827-invalid-tweets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
