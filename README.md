@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0948-sort-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0948-sort-an-array) |
 ## Ordered Set
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0948-sort-an-array) |
 | [1622-max-value-of-equation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0092-reverse-linked-list-ii) |
