@@ -12,8 +12,9 @@ public:
         }
         int temp = st.top();
         st.pop();
-        push(x);
-        st.push(temp);
+        push(x); // Ye recusion haii Yah per saare element pehli pop kar rahe hai... fir 
+        st.push(temp); /// last mai ye eleement ko daal rahe hain sabse upper.//\
+        // Ye sab isliye kar rahe hain taaki.. top par wo rahe to pehli ayaa.....
     }
     
     int pop() {
