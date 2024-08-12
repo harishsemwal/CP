@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1622-max-value-of-equation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
