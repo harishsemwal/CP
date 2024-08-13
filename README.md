@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0049-group-anagrams) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0088-merge-sorted-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0115-distinct-subsequences) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0143-reorder-list) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
