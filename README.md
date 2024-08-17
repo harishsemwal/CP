@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0874-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |
