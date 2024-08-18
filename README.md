@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0937-online-stock-span) |
 ## Randomized
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0341-flatten-nested-list-iterator](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0874-backspace-string-compare) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Linked List
@@ -372,4 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0937-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
