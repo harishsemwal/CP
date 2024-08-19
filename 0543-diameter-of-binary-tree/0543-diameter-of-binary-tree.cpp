@@ -15,16 +15,13 @@ public:
         if(root == NULL){
             return 0;
         }
-        // left
         int left = solve(root->left, res);
-        // right
         int right = solve(root->right, res);
 
-        int maxi = max(left, right) + 1;
-        int temp = max(maxi, (left+right+1));
-        res = max(res, temp);
-
-        return maxi;
+        int temp = max(left, right) + 1;
+        int ans = max(temp, (left + right + 1));
+        res = max(res, ans);
+        return temp;
     }
     int diameterOfBinaryTree(TreeNode* root) {
         int res = INT_MIN;
