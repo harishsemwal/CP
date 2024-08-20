@@ -19,7 +19,6 @@ public:
         TreeNode* root = new TreeNode(nums[mid]);
         root->left = solve(nums, left, mid - 1);
         root->right = solve(nums, mid + 1, right);
-
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
