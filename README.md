@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0948-sort-an-array) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
