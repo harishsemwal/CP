@@ -2,7 +2,7 @@ class Solution {
 public:
     int getHeight(TreeNode *root) {
         if (root == NULL) return 0;
-        
+        // BBT - left - right always yh to 0 or yh to 1 hona chaiye
         int lh = getHeight(root->left);
         int rh = getHeight(root->right);
 
