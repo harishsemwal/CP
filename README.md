@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
