@@ -1,24 +1,24 @@
 class Solution {
 public:
     string decodeString(string s) {
-        stack<int> numStack;
-        stack<string> strStack;
+        stack<int> numStack; // take number stack
+        stack<string> strStack; // take stirng stack
         
-        string str;
-        int num = 0;
+        string str;   // this is for answer
+        int num = 0;  // number which is deals with kth value
         
-        for(char c : s){
-            if(isdigit(c)){
-                num = num * 10 + (c - '0');
+        for(char x : s){ // traverse
+            if(isdigit(x)){ // number hai yah nahi
+                num = num * 10 + (x - '0'); // if that is number take that into num
             }
-            else if(c == '['){
-                strStack.push(str);
-                str = "";
+            else if(x == '['){      // if that is [ then
+                strStack.push(str); // push that into the stack
+                str = "";           // ans is nothing in that perticular time
                 
-                numStack.push(num);
+                numStack.push(num); 
                 num = 0;
             }
-            else if(c == ']'){
+            else if(x == ']'){
                 string temp = str;
                 str = strStack.top();
                 strStack.pop();
@@ -31,7 +31,7 @@ public:
                 }
             }
             else{
-                str += c;
+                str += x;
             }
         }
         return str;
