@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3468-find-the-encrypted-string) |
+| [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0874-backspace-string-compare) |
+| [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
 | ------- |
