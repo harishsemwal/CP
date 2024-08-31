@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1293-three-consecutive-odds](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
@@ -530,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
