@@ -11,44 +11,20 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        
-        struct ListNode *ptr1 = list1;
-        if(list1 == NULL)
-        {
-        	return list2;
+        if(list1 == nullptr){
+            return list2;
         }
-        if(list2 == NULL)
-        {
-        	return list1;
+        if(list2 == nullptr){
+            return list1;
         }
-        
-        while(list1->next != NULL)
-        {
-            list1 = list1->next;
-        }
-        list1->next = list2;
-        //complete node present in ptr1
-        struct ListNode *current = ptr1;
-        struct ListNode *index;
-        int temp;
-        
-        
-         while(current!=NULL)
-        {
-            index = current->next;
 
-            while(index!=NULL)
-            {
-                if(current->val > index->val)
-                {
-                    temp = current->val;
-                    current->val = index->val;
-                    index->val = temp;
-                }
-                index = index->next;
-            }
-            current = current->next;
+        if(list1->val <= list2->val){
+            list1->next = mergeTwoLists(list1->next, list2);
+            return list1;
         }
-        return ptr1;
+        else{
+            list2->next = mergeTwoLists(list1, list2->next);
+            return list2;
+        }
     }
 };
