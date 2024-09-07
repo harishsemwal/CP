@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0542-01-matrix) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Greedy
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
