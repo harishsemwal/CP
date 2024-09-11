@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
