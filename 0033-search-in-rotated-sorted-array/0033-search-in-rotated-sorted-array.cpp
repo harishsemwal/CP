@@ -4,30 +4,25 @@ public:
         int n = nums.size();
         int left = 0;
         int right = n - 1;
-        int mid = (left + right)/2;
-        while(left <= right)
-        {
-            if(nums[mid] == target){
+        int mid = (left + right) / 2;
+        while (left <= right) {
+            if (nums[mid] == target) {
                 return mid;
             }
-            if(nums[mid] >= nums[left]){
-                if(target >= nums[left] && target <= nums[mid]){
+            if (nums[mid] >= nums[left]) {
+                if (target >= nums[left] && target <= nums[mid]) {
                     right = mid - 1;
-                }
-                else{
+                } else {
                     left = mid + 1;
                 }
-            }
-            else{
-                 if(target >= nums[mid] && target <= nums[right])
-                 { 
+            } else {
+                if (target >= nums[mid] && target <= nums[right]) {
                     left = mid + 1;
-                 }
-                else {
+                } else {
                     right = mid - 1;
                 }
             }
-            mid = (left + right)/2;
+            mid = (left + right) / 2;
         }
         return -1;
     }
