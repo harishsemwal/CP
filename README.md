@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3468-find-the-encrypted-string) |
 | [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
+| [3541-report-spam-message](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3541-report-spam-message) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
+| [3541-report-spam-message](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3541-report-spam-message](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3541-report-spam-message) |
 ## Prefix Sum
 |  |
 | ------- |
