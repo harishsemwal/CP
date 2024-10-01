@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1622-max-value-of-equation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1622-max-value-of-equation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3541-report-spam-message](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3541-report-spam-message) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0169-majority-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
