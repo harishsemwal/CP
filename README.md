@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1734-bank-account-summary-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1827-invalid-tweets) |
 ## Doubly-Linked List
 |  |
