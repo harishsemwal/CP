@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0096-unique-binary-search-trees) |
