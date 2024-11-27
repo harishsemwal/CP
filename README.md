@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0115-distinct-subsequences) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -579,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
