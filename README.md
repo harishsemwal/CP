@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
 ## Enumeration
 |  |
