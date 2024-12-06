@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1256-rank-transform-of-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1580-shuffle-the-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Design
@@ -598,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
