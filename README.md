@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1622-max-value-of-equation) |
 | [1635-number-of-good-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1791-richest-customer-wealth](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2058-concatenation-of-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
+| [1791-richest-customer-wealth](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
