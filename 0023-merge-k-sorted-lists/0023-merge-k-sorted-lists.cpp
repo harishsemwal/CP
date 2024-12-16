@@ -29,7 +29,6 @@ public:
             pq.pop();
             if(it.second->next){
                 pq.push({it.second->next->val, it.second->next});
-                // Ye yaha par unke depth mai jaega or unko pq push karega... 
             }
             temp->next = it.second;
             temp = temp->next;
