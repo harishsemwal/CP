@@ -1,6 +1,12 @@
 class Solution {  
 public:  
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {  
+        /*
+        
+        Time - O(m + n)
+        Space - O(m + n)
+
+        */
         int n = nums1.size();  
         int m = nums2.size();  
         
