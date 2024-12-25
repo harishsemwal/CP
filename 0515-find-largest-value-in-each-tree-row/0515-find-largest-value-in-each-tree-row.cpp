@@ -12,25 +12,23 @@
 class Solution {
 public:
     vector<int> largestValues(TreeNode* root) {
+        /*
+        Time -: O(n)
+        Space -: O(w) -> Width
+        */
         vector<int> res;
-        if(root == nullptr){
-            return res;
-        }
-        queue<TreeNode*> que;
-        que.push(root);
-        while(!que.empty()){
-            int Levelsize = que.size();
+        if (root == nullptr) return res;
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            int levelSize = q.size();
             int maxi = INT_MIN;
-            for(int i = 0; i < Levelsize; i++){
-                TreeNode* node = que.front();
-                que.pop();
+            for (int i = 0; i < levelSize; i++) {
+                TreeNode* node = q.front();
+                q.pop();
                 maxi = max(maxi, node->val);
-                if(node->left){
-                    que.push(node->left);
-                }
-                if(node->right){
-                    que.push(node->right);
-                }
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
             }
             res.push_back(maxi);
         }
