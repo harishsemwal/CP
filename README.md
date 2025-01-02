@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3468-find-the-encrypted-string) |
 | [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
 | ------- |
