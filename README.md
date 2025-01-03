@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
