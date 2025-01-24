@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0020-valid-parentheses) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0049-group-anagrams) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
