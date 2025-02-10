@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3447-clear-digits](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3468-find-the-encrypted-string) |
 | [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [3447-clear-digits](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
