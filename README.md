@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0115-distinct-subsequences) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -638,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
