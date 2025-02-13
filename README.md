@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
