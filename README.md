@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1635-number-of-good-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Design
 |  |
