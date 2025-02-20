@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0283-move-zeroes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0493-reverse-pairs) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0948-sort-an-array) |
 ## Ordered Set
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0445-add-two-numbers-ii) |
