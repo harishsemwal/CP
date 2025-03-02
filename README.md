@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2551-apply-operations-to-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3541-report-spam-message](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3541-report-spam-message) |
 ## Prefix Sum
 |  |
