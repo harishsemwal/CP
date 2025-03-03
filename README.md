@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3533-snake-in-matrix) |
