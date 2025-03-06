@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3541-report-spam-message](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3541-report-spam-message) |
 ## Prefix Sum
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1073-number-of-enclaves) |
 | [1791-richest-customer-wealth](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Design
 |  |
