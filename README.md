@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harishsemwal/geeksforgeeks-Approaches-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
